@@ -63,6 +63,19 @@ A aplicação permite:
 
 ## ▶️ Como Executar o Projeto
 
+## 📸 Prints da Aplicação
+
+### 🔐 Tela de Login
+![Tela de Login](./login.png)
+
+### 📝 Tela de Cadastro
+![Tela de Cadastro](./register.png)
+
+### ✅ Usuário Autenticado
+![Usuário autenticado](./loggedin.png)
+
+---
+
 ```bash
 # Clone o repositório
 git clone https://github.com/JoaopedroRib06/TodoList-2026--Atividade-Firebase
