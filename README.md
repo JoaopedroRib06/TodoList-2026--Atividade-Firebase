@@ -60,3 +60,18 @@ A aplicação permite:
 
 ### 🔹 Logout
 - Encerramento da sessão via Firebase
+
+## ▶️ Como Executar o Projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/JoaopedroRib06/TodoList-2026--Atividade-Firebase
+
+# Acesse a pasta
+cd TodoList-2026--Atividade-Firebase
+
+# Instale as dependências
+npm install
+
+# Execute o projeto
+npm run dev
